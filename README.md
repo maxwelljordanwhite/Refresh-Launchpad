@@ -10,9 +10,9 @@ An [Alfred](https://alfredapp.com) Workflow that sorts your Launchpad, like when
 2. Open the `.alfredworkflow` file & select Import
 3. Launch Alfred and type either `rl` or `refresh launchpad`
 
-## Contributions Welcome
+## Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Have an idea that'd improve this? Awesome, please open a pull request!
+Have an idea that'd improve this project? I'm all ears! Issues and pull requests welcome.
 
 ## License
 
