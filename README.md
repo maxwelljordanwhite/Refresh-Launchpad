@@ -1,8 +1,8 @@
 # Refresh Launchpad
 
-An [Alfred](https://alfredapp.com) Workflow that sorts your Launchpad, like when you first fired up your Mac. It will give the first page what defaults you have installed and the remaining pages will be what apps you've installed, in alphabetical order.
+<img src="icon.png" alt="Refresh Launchpad Icon" width="100"/>
 
-![Refresh Launchpad](refresh-launchpad-preview-image.png "Refresh Launchpad for Alfred")
+An [Alfred](https://alfredapp.com) Workflow that sorts your Launchpad, like when you first fired up your Mac. It will give the first page what defaults you have installed and the remaining pages will be what apps you've installed, in alphabetical order.
 
 ## Usage
 
