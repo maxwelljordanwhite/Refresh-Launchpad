@@ -2,7 +2,7 @@
 
 <img src="icon.png" alt="Refresh Launchpad Icon" width="100"/>
 
-An [Alfred](https://alfredapp.com) Workflow that sorts your Launchpad, like when you first fired up your Mac. It will give the first page what defaults you have installed and the remaining pages will be what apps you've installed, in alphabetical order.
+This Alfred Workflow sorts the first page of your Launchpad, like when you first fired up your Mac. Your remaining applications will be placed into new pages, but won't get sorted due to current limitations.
 
 ## Usage
 
