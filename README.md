@@ -1,3 +1,9 @@
+Unfortunately, after (I think) Sierra, the script that this workflow runs only works with Apple's stock apps. I did some searching but haven't been able to find a working alternative. For the time being, I'm archiving this repository. I'll keep my eye out & add a note to the README here mentioning this.
+
+If you'd be interested, there's an app that mostly solves this (though, not from Alfred) called [Launchpad Manager](http://launchpadmanager.com/). It looks like it was updated to work with Catalina. I re-purchased it to give it a try, and it seems to do the trick. I'm going to see if I can't somehow run this from Alfred as another alternative.
+
+---
+
 # Refresh Launchpad
 
 <img src="icon.png" alt="Refresh Launchpad Icon" width="100"/>
