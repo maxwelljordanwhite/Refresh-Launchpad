@@ -6,7 +6,7 @@ This Alfred Workflow sorts the first page of your Launchpad, like when you first
 
 ## Usage
 
-1. [Grab the latest release](https://github.com/maxwelljordanwhite/Refresh-Launchpad/releases) (also available from [Pacmax](https://pacmax.org/pac/maxwelljordanwhite-refresh-launchpad/))
+1. [Grab the latest release](https://github.com/maxwelljordanwhite/Refresh-Launchpad/releases)
 2. Open the `.alfredworkflow` file & select Import
 3. Launch Alfred and type either `rl` or `refresh launchpad`
 
